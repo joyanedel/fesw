@@ -16,7 +16,7 @@ function App(){
   return (
     <div>
       <video autoPlay muted loop id="background_video">
-        <source src="/videos/background.mp4" type='video/mp4'/>
+        <source src="videos/background.mp4" type='video/mp4'/>
       </video>
       <Router basename={process.env.PUBLIC_URL}>
         <div id="body">
