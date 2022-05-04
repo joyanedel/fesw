@@ -1,22 +1,15 @@
 {
-  "files": {
-    "main.css": "/fesw/static/css/main.fa47b8dc.chunk.css",
-    "main.js": "/fesw/static/js/main.8fb3a1c5.chunk.js",
-    "main.js.map": "/fesw/static/js/main.8fb3a1c5.chunk.js.map",
-    "runtime-main.js": "/fesw/static/js/runtime-main.4b58d677.js",
-    "runtime-main.js.map": "/fesw/static/js/runtime-main.4b58d677.js.map",
-    "static/js/2.38fc0896.chunk.js": "/fesw/static/js/2.38fc0896.chunk.js",
-    "static/js/2.38fc0896.chunk.js.map": "/fesw/static/js/2.38fc0896.chunk.js.map",
-    "static/js/3.dd7e717b.chunk.js": "/fesw/static/js/3.dd7e717b.chunk.js",
-    "static/js/3.dd7e717b.chunk.js.map": "/fesw/static/js/3.dd7e717b.chunk.js.map",
-    "index.html": "/fesw/index.html",
-    "static/css/main.fa47b8dc.chunk.css.map": "/fesw/static/css/main.fa47b8dc.chunk.css.map",
-    "static/js/2.38fc0896.chunk.js.LICENSE.txt": "/fesw/static/js/2.38fc0896.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.4b58d677.js",
-    "static/js/2.38fc0896.chunk.js",
-    "static/css/main.fa47b8dc.chunk.css",
-    "static/js/main.8fb3a1c5.chunk.js"
-  ]
+  "main.css": "/fesw/static/css/main.5bd11579.chunk.css",
+  "main.js": "/fesw/static/js/main.f9ae1da5.chunk.js",
+  "main.js.map": "/fesw/static/js/main.f9ae1da5.chunk.js.map",
+  "runtime~main.js": "/fesw/static/js/runtime~main.952795a5.js",
+  "runtime~main.js.map": "/fesw/static/js/runtime~main.952795a5.js.map",
+  "static/js/2.0f320f0a.chunk.js": "/fesw/static/js/2.0f320f0a.chunk.js",
+  "static/js/2.0f320f0a.chunk.js.map": "/fesw/static/js/2.0f320f0a.chunk.js.map",
+  "static/js/3.29e3822b.chunk.js": "/fesw/static/js/3.29e3822b.chunk.js",
+  "static/js/3.29e3822b.chunk.js.map": "/fesw/static/js/3.29e3822b.chunk.js.map",
+  "index.html": "/fesw/index.html",
+  "precache-manifest.661a44681e60aaa051b61774dbfaa315.js": "/fesw/precache-manifest.661a44681e60aaa051b61774dbfaa315.js",
+  "service-worker.js": "/fesw/service-worker.js",
+  "static/css/main.5bd11579.chunk.css.map": "/fesw/static/css/main.5bd11579.chunk.css.map"
 }
