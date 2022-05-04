@@ -6,7 +6,7 @@ function Navigation() {
         <div className="nav">
             <div className="nav-img">
                 <a href="/">
-                    <img src="/images/fesw-logo-w.png" alt="fesw-logo" />
+                    <img src="images/fesw-logo-w.png" alt="fesw-logo" />
                 </a>
             </div>
             <div id="navigation">
@@ -16,7 +16,7 @@ function Navigation() {
             </div>
             <div className="nav-img">
                 <a href="https://www.inf.utfsm.cl/">
-                    <img src="/images/Departamento de Informática.png" alt="fesw-logo" />
+                    <img src="images/Departamento-de-Informática.png" alt="fesw-logo" />
                 </a>
             </div>
         </div>
