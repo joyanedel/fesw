@@ -23,7 +23,7 @@ function Project() {
                     borderRadius:"50%",background:"#F7AE00",
                     }}>
                     <Link to={`/proyecto/${project[0].name}/edit`} state={{return_url: `/proyecto/${project_param.name}`, temp_url: location.state.return_url}}>
-                        <img src="/images/edit_black_48dp.svg" style={{width:"70%"}}/>
+                        <img src="/images/edit_black_48dp.svg" style={{width:"70%"}} alt="edit"/>
                     </Link> 
                 </button>
             </div>

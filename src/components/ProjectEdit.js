@@ -64,7 +64,7 @@ function ProjectEdit() {
                         <div style={{display:"flex", justifyContent:"flex-end",marginTop:"1%"}}>
                             <div style={{width:"52px", cursor:"pointer"}}>
                                 <button onClick={Modal} type="button" style={{cursor:"pointer",borderRadius:"30%",background:"#F7AE00"}}> 
-                                        <img src="/images/save_black_48dp.svg" style={{width:"60%"}}/>
+                                        <img src="/images/save_black_48dp.svg" style={{width:"60%"}} alt="save"/>
                                 </button>
                             </div>
                         </div>

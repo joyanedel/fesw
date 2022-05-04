@@ -10,13 +10,13 @@ function VistaButton(props) {
                 props.set_view(0);
                 set_selected(0);
                 }}>
-                <img src="/images/view_list_black_24dp.svg" className={ selected === 0 ? 'active-view' : null }/>
+                <img src="/images/view_list_black_24dp.svg" className={ selected === 0 ? 'active-view' : null } alt="view-list"/>
             </button>
             <button onClick={() => {
                 props.set_view(1);
                 set_selected(1);
                 }}>
-                <img src="/images/grid_view_black_24dp.svg" className={ selected === 1 ? 'active-view' : null }/>
+                <img src="/images/grid_view_black_24dp.svg" className={ selected === 1 ? 'active-view' : null } alt="view-grid"/>
             </button>
             <span> Vista </span>
         </div>  

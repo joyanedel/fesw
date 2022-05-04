@@ -67,7 +67,7 @@ function CurrentProjects() {
                 </div>   
                 <button className="button" style={{display: 'flex', flexDirection: 'row',  alignItems: 'center', cursor: 'pointer',height:"3rem",width:"6rem"}} onClick={() => {
                     set_buttonClicked(!btn_clicked);}}>
-                                <img src="/images/filter_alt_black_48dp.svg" style={{height:"100%", marginRight:"0.2rem",stroke:"white"}}/>
+                                <img src="/images/filter_alt_black_48dp.svg" style={{height:"100%", marginRight:"0.2rem",stroke:"white"}} alt="filter"/>
                                 <h5> Filtrar </h5>
                 </button>            
             </div>
