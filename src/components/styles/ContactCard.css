@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.contact-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    color: black;
+    width: 50rem;
+    height: 25rem;
+    margin-top: 10rem;
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 5rem;
+    box-shadow: 0px 0px 2px black;
+    font-family: 'Rubik', sans-serif;
+}
+
+#contact-card-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#contact-card-video {
+    position: relative;
+    width: 50%;
+}
+
+#contact-card-video > iframe {
+    position: absolute;
+    top: -8rem;
+    left: 3rem;
+    width: 25rem;
+    height: 12rem;
+    border-radius: 10px;
+}
+
+#contact-card-title {
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: rgb(216, 216, 216);
+    
+}
+
+#contact-card-short {
+    position: absolute;
+    line-height: 0px;
+    top: 60%;
+    width: 100%;
+
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: black;
+}
+
+#contact-card-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#contact-card-text {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 1rem 1rem;
+}

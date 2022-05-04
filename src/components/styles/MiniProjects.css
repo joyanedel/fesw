@@ -1,0 +1,86 @@
+.miniprojects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    width: min-content;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+}
+
+.miniprojects-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    background-color: rgb(242, 243, 244); 
+    width: 50rem;
+    margin-top: 1rem;
+    padding: 1rem 1rem;
+    align-self: center;
+    border-radius: 10px;
+}
+
+.miniprojects-title-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.miniprojects-title-icon > img {
+    width: 8%;
+}
+
+
+.miniprojects-information {
+    display: flex;
+    flex-direction: row;
+    width: 50rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.miniprojects-img {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.miniprojects-img > img {
+    width: 30%;
+    border-radius: 50%;
+    padding: 1%;
+    
+}
+
+.miniprojects-img-row {
+    display: flex;
+    flex-direction: column;
+    width: 25%;  
+    padding: 2%;
+}
+
+.miniprojects-text {
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    text-align: justify;
+    text-justify: inter-word;
+    align-self: center;
+    padding: 5%;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.miniprojects:hover {
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.342);
+}

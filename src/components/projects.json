@@ -1,0 +1,190 @@
+[
+    {
+        "name": "+Life",
+        "detail": "Sistema informático para la predicción de escasez sanguinea y la realización de tareas esenciales de los centros de transfusión de sangre.",
+        "yt_link": "https://youtu.be/iB697qEKB2U",
+        "yt_link_frame": "https://www.youtube.com/embed/iB697qEKB2U",
+        "year": 2020,
+        "project_img": "/images/+Life/+Life_logo.png",
+        "team_img": "/images/+Life/+Life_grupo.png",
+        "members_info": {
+            "Fabián Arancibia": ["/images/+Life/+Life_integrantes/FabianArancibia.jpg", "fabian.arancibia@sansano.usm.cl", "Desarrollador Web"],
+            "Tomás Escalona": ["/images/+Life/+Life_integrantes/TomasEscalona.jpg", "tomas.escalona@sansano.usm.cl", "Desarrollador Web"],
+            "Benjamín Molina": ["/images/+Life/+Life_integrantes/BenjamínMolina.jpg", "benjamin.molina@sansano.usm.cl", "Desarrollador Full Stack"],
+            "Javier Olivares": ["/images/+Life/+Life_integrantes/JavierOlivares.jpg", "javier.olivares@sansano.usm.cl", "Desarrollador Móvil"],
+            "Kenji Tsutsumi": ["/images/+Life/+Life_integrantes/KenjiTsutsumi.jpg", "kenji.tsutsumi@sansano.usm.cl", "Analista de Datos"]
+        },
+        "category": ["Computer Science", "TICS", "Health"]
+    },
+    {
+        "name": "Artificial Inventory",
+        "detail": "Buscamos evitar quiebres de stock de productos, junto con contar y calcular la distancia social de las personas, haciendo uso de inteligencia artificial a través de las cámaras de seguridad de locales comerciales.",
+        "yt_link": "https://youtu.be/L3-HR4Uq93w",
+        "yt_link_frame": "https://www.youtube.com/embed/L3-HR4Uq93w",
+        "year": 2020,
+        "project_img": "/images/ArtificialInventory/ArtificialInventory_logo.svg",
+        "team_img": "/images/ArtificialInventory/ArtificialInventory_grupo.svg",
+        "members_info": {
+            "Andrés Calfulef": ["/images/ArtificialInventory/ArtificialInventory_integrantes/AndrésCalfulef.jpg", "andrés.calfulef@sansano.usm.cl", "Desarrollador"],
+            "Cristian Chamorro": ["/images/ArtificialInventory/ArtificialInventory_integrantes/CristianChamorro.jpg", "cristian.chamorro@sansano.usm.cl", "Desarrollador"],
+            "Martín Crisostomo": ["/images/ArtificialInventory/ArtificialInventory_integrantes/MartínCrisostomo.jpg", "martín.crisostomo@sansano.usm.cl", "Desarrollador"],
+            "Matías Moreno": ["/images/ArtificialInventory/ArtificialInventory_integrantes/MatíasMoreno.jpg", "matías.moreno@sansano.usm.cl", "Scrum Master"],
+            "Sebastián Godinez": ["/images/ArtificialInventory/ArtificialInventory_integrantes/SebastiánGodinez.jpg", "sebastián.godinez@sansano.usm.cl", "Product Owner"]
+        },
+        "category": ["TICS", "Computer Science"]
+    },
+    {
+        "name": "DressUAPP",
+        "detail": "Aplicación móvil para Android donde interactuar entre usuarios mediante publicaciones de vestuario clasificadas por tipo y color con el uso de redes neuronales, para formar una comunidad que brinde asesoramiento de imagen vía celular, con el fin de disminuir la indecisión al momento de elegir qué vestir.",
+        "yt_link": "https://youtu.be/r4rGf09XN7A",
+        "yt_link_frame": "https://www.youtube.com/embed/r4rGf09XN7A",
+        "year": 2020,
+        "project_img": "/images/DressUAPP/DressUAPP_logo.png",
+        "team_img": "/images/DressUAPP/DressUAPP_grupo.png",
+        "members_info": {
+            "Andrés Navarro": ["/images/DressUAPP/DressUAPP_integrantes/AndrésNavarro.png", "andrés.navarro@sansano.usm.cl", "Scrum Master"],
+            "Bárbara Uribe": ["/images/DressUAPP/DressUAPP_integrantes/BárbaraUribe.png", "bárbara.uribe@sansano.usm.cl", "Product Owner"],
+            "Fabrizio Ogalde": ["/images/DressUAPP/DressUAPP_integrantes/FabrizioOgalde.png", "fabrizio.ogalde@sansano.usm.cl", "Encargado de Riesgo"],
+            "Javier Moreno": ["/images/DressUAPP/DressUAPP_integrantes/JavierMoreno.png", "javier.moreno@sansano.usm.cl", "Encargado de Cambio"],
+            "Kevin Lagos": ["/images/DressUAPP/DressUAPP_integrantes/KevinLagos.png", "kevin.lagos@sansano.usm.cl", "Comunicaciones"],
+            "Sonny Muñoz": ["/images/DressUAPP/DressUAPP_integrantes/KevinLagos.png", "sonny.munoz@sansano.usm.cl", "Encargado de Calidad"]
+        },
+        "category": ["Mobile", "Machine Learning", "Fashion"]
+    },
+    {
+        "name": "OneCheck",
+        "detail": "OneCheck es una aplicación que permite a los profesores corregir pruebas con una fotografía o escaneo a la hoja de respuestas del alumno. Para esto, se usan tecnologías de aprendizaje de máquina, con las cuales la aplicación reconoce la escritura del alumno, identifica las respuestas correctas y asigna el puntaje de forma automática.",
+        "yt_link": "https://youtu.be/aNM-88gRVdk",
+        "yt_link_frame": "https://www.youtube.com/embed/aNM-88gRVdk",
+        "year": 2020,
+        "project_img": "/images/OneCheck/OneCheck_logo.png",
+        "team_img": "/images/OneCheck/OneCheck_grupo.png",
+        "members_info": {
+            "Felipe Santander": ["/images/OneCheck/OneCheck_integrantes/FelipeSantander.png", "felipe.santander@sansano.usm.cl", "Chief AI Engineer"],
+            "Leonardo Astudillo": ["/images/OneCheck/OneCheck_integrantes/LeonardoAstudillo.jpg", "leonardo.astudillo@sansano.usm.cl", "AI Developer"],
+            "Gabriel Guzmán": ["/images/OneCheck/OneCheck_integrantes/GabrielGuzman.png", "gabriel.guzman@sansano.usm.cl", "Chief Backend Engineer"],
+            "Claudio Valenzuela": ["/images/OneCheck/OneCheck_integrantes/ClaudioValenzuela.png", "claudio.valenzuela@sansano.usm.cl", "Chief Frontend Engineer"],
+            "Andrés Herrera": ["/images/OneCheck/OneCheck_integrantes/AndresHerrera.jpg", "andres.herrera@sansano.usm.cl", "Frontend Developer"]
+        },
+        "category": ["Machine Learning", "Education", "Mobile"]
+    },
+    {
+        "name": "AMI",
+        "detail": "¿Cansado de ofertas que no te interesan? AMI busca descuentos especiales para ti junto con revolucionar cómo las empresas ofrecen sus productos.",
+        "yt_link": "https://youtu.be/VKQIQwuA-ss",
+        "yt_link_frame": "https://www.youtube.com/embed/VKQIQwuA-ss",
+        "year": 2016,
+        "project_img": "/images/OneCheck/OneCheck_logo.png",
+        "team_img": "/images/OneCheck/OneCheck_grupo.png",
+        "members_info": {
+            "Felipe Santander": ["/images/OneCheck/OneCheck_integrantes/FelipeSantander.png", "felipe.santander@sansano.usm.cl", "Chief AI Engineer"],
+            "Leonardo Astudillo": ["/images/OneCheck/OneCheck_integrantes/LeonardoAstudillo.jpg", "leonardo.astudillo@sansano.usm.cl", "AI Developer"],
+            "Gabriel Guzmán": ["/images/OneCheck/OneCheck_integrantes/GabrielGuzman.png", "gabriel.guzman@sansano.usm.cl", "Chief Backend Engineer"],
+            "Claudio Valenzuela": ["/images/OneCheck/OneCheck_integrantes/ClaudioValenzuela.png", "claudio.valenzuela@sansano.usm.cl", "Chief Frontend Engineer"],
+            "Andrés Herrera": ["/images/OneCheck/OneCheck_integrantes/AndresHerrera.jpg", "andres.herrera@sansano.usm.cl", "Frontend Developer"]
+        },
+        "category": ["Business"]
+    },
+    {
+        "name": "BeOwl",
+        "detail": "Con BeOwl podrás sentirte inmerso en el mundo de la realidad virtual manejando una cámara con movimientos de tu cabeza y controlando sus funciones solo con tu voz.",
+        "yt_link": "https://youtu.be/HZP5LEdbDOA",
+        "yt_link_frame": "https://www.youtube.com/embed/HZP5LEdbDOA",
+        "year": 2016,
+        "project_img": "/images/+Life/+Life_logo.png",
+        "team_img": "/images/+Life/+Life_grupo.png",
+        "members_info": {
+            "Fabián Arancibia": ["/images/+Life/+Life_integrantes/FabianArancibia.jpg", "fabian.arancibia@sansano.usm.cl", "Desarrollador Web"],
+            "Tomás Escalona": ["/images/+Life/+Life_integrantes/TomasEscalona.jpg", "tomas.escalona@sansano.usm.cl", "Desarrollador Web"],
+            "Benjamín Molina": ["/images/+Life/+Life_integrantes/BenjamínMolina.jpg", "benjamin.molina@sansano.usm.cl", "Desarrollador Full Stack"],
+            "Javier Olivares": ["/images/+Life/+Life_integrantes/JavierOlivares.jpg", "javier.olivares@sansano.usm.cl", "Desarrollador Móvil"],
+            "Kenji Tsutsumi": ["/images/+Life/+Life_integrantes/KenjiTsutsumi.jpg", "kenji.tsutsumi@sansano.usm.cl", "Analista de Datos"]
+        },
+        "category": ["Virtual Reality", "Computer Science"]
+    },
+    {
+        "name": "Insurive",
+        "detail": "Insurive es un sistema que busca optimizar tu tiempo al realizar las compras en el supermercado usando tecnologías de etiquetado RFID.",
+        "yt_link": "https://youtu.be/clgH-ts8lyc",
+        "yt_link_frame": "https://www.youtube.com/embed/clgH-ts8lyc",
+        "year": 2016,
+        "project_img": "/images/ArtificialInventory/ArtificialInventory_logo.svg",
+        "team_img": "/images/ArtificialInventory/ArtificialInventory_grupo.svg",
+        "members_info": {
+            "Andrés Calfulef": ["/images/ArtificialInventory/ArtificialInventory_integrantes/AndrésCalfulef.jpg", "andrés.calfulef@sansano.usm.cl", "Desarrollador"],
+            "Cristian Chamorro": ["/images/ArtificialInventory/ArtificialInventory_integrantes/CristianChamorro.jpg", "cristian.chamorro@sansano.usm.cl", "Desarrollador"],
+            "Martín Crisostomo": ["/images/ArtificialInventory/ArtificialInventory_integrantes/MartínCrisostomo.jpg", "martín.crisostomo@sansano.usm.cl", "Desarrollador"],
+            "Matías Moreno": ["/images/ArtificialInventory/ArtificialInventory_integrantes/MatíasMoreno.jpg", "matías.moreno@sansano.usm.cl", "Scrum Master"],
+            "Sebastián Godinez": ["/images/ArtificialInventory/ArtificialInventory_integrantes/SebastiánGodinez.jpg", "sebastián.godinez@sansano.usm.cl", "Product Owner"]
+        },
+        "category": ["Business", "Shopping", "TICS"]
+    },
+    {
+        "name": "BEEGILANT",
+        "detail": "Beegilant es un sistema de vigilancia, que reconoce posibles actos de violencia lanzando una alerta usando algoritmos de machine learning, además de ofrecer un servicio de streaming",
+        "yt_link": "https://youtu.be/UsgO6vE7gf0",
+        "yt_link_frame": "https://www.youtube.com/embed/UsgO6vE7gf0",
+        "year": 2019,
+        "project_img": "/images/Beegilant/Beegilant_logo.png",
+        "team_img": "/images/Beegilant/Beegilant_grupo.png",
+        "members_info": {
+            "Cesar Quiroz": ["/images/BEEGILANT/BEEGILANT_integrantes/CesarQuiroz.jpg", "cesar.quiroz@sansano.usm.cl", "Jefe de Proyecto"],
+            "Florencia Cuzmar": ["/images/BEEGILANT/BEEGILANT_integrantes/FlorenciaCuzmar.jpg", "cristian.chamorro@sansano.usm.cl", "Back-end Developer"],
+            "Monserrat Figueroa": ["/images/BEEGILANT/BEEGILANT_integrantes/MonserratFigueroa.png", "monserrat.figueroa@sansano.usm.cl", "Front-end Developer"],
+            "Jorge Contreras": ["/images/BEEGILANT/BEEGILANT_integrantes/JorgeContreras.jpg", "jorge.contreras@sansano.usm.cl", "Back-end Developer"],
+            "Sebastián Ramírez": ["/images/BEEGILANT/BEEGILANT_integrantes/SebastiánRamírez.jpg", "sebastián.ramírez@sansano.usm.cl", "Back-end Developer"]
+        },
+        "category": ["Vigilancy", "Machine Learning", "Streaming"]
+    }
+    ,
+    {
+        "name": "MIP",
+        "detail": "Servicio de registro, seguimiento y gestión de la información para reuniones presenciales.",
+        "yt_link": "https://youtu.be/ODQqvJ6eaMo",
+        "yt_link_frame": "https://www.youtube.com/embed/ODQqvJ6eaMo",
+        "year": 2019,
+        "project_img": "/images/MIP/MIP_logo.svg",
+        "team_img": "/images/MIP/MIP_logo.svg",
+        "members_info" :{
+            "Gerardo Neumann":["/images/MIP/MIP_integrantes/GerardoNeumann.jpg","gerardo.neuman.ramírez@sansano.usm.cl","Scrum Master"],
+            "Sebastián Gallardo": ["/images/MIP/MIP_integrantes/SebastiánGallardo.jpg","sebastián.gallardo@sansano.usm.cl","Experto en Tecnologías"],
+            "Macarena Andrade":["/images/MIP/MIP_integrantes/MacarenaAndrade.jpg","macarena.andrade@sansano.usm.cl","Desarrolladora"],
+            "Bastián Quezada":["/images/MIP/MIP_integrantes/BastiánQuezada.jpg","bastian.quezada@sansano.usm.cl","Desarrolador"],
+            "Ignacio Valenzuela":["/images/MIP/MIP_integrantes/IgnacioValenzuela.jpg","ignacio.valenzuela@sansano.usm.cl","Product Owner"]
+        },
+        "category": ["Business", "Mobile", "Planning"]
+    },
+    {
+        "name": "Cirkel",
+        "detail": "Cirkel es un proyecto conformado por una aplicación y un anillo inteligente que permite alertar a contactos previamente registrados, sobre situaciones de agresión, tales como violencia intrafamiliar y/o ataques sexuales, compartiendo tu ubicación en tiempo real.",
+        "yt_link": "https://youtu.be/GdR4QyU0fUo",
+        "yt_link_frame": "https://www.youtube.com/embed/GdR4QyU0fUo",
+        "year": 2019,
+        "project_img": "/images/Cirkel/Cirkel_logo.png",
+        "team_img": "/images/Cirkel/Cirkel_grupo.png",
+        "members_info" :{
+            "José Tello":["/images/Cirkel/Cirkel_integrantes/JoséTello.jpg","jose.tello@sansano.usm.cl","Lider Técnico"],
+            "Rosa LLanos":["/images/Cirkel/Cirkel_integrantes/RosaLlanos.jpg","rosa.llanos@sansano.usm.cl","Marketing"],
+            "Victoria González":["/images/Cirkel/Cirkel_integrantes/VictoriaGonzález.jpg","victoria.gonzalez@sansano.usm.cl","Scrum Master"],
+            "GabrielaSepúlveda":["/images/Cirkel/Cirkel_integrantes/GabrielaSepúlveda.jpg","gabriela.sepulveda@sansano.usm.cl","Product Owner"]
+        },
+        "category": ["Vigilancy", "Security", "Mobile"]
+    },
+    {
+        "name": "UXpression",
+        "detail": "UXpression es una herramienta móvil que permite analizar emociones e interacciones de personas al usar una plataforma o sitio web, para aumentar la tasa de éxito y mejorar la experiencia del usuario.",
+        "yt_link": "https://youtu.be/3R9nEL1EK2c",
+        "yt_link_frame": "https://www.youtube.com/embed/3R9nEL1EK2c",
+        "year": 2018,
+        "project_img": "/images/MIP/MIP_logo.svg",
+        "team_img": "/images/MIP/MIP_logo.svg",
+        "members_info" :{
+            "Gerardo Neumann":["/images/MIP/MIP_integrantes/GerardoNeumann.jpg","gerardo.neuman.ramírez@sansano.usm.cl","Scrum Master"],
+            "Sebastián Gallardo": ["/images/MIP/MIP_integrantes/SebastiánGallardo.jpg","sebastián.gallardo@sansano.usm.cl","Experto en Tecnologías"],
+            "Macarena Andrade":["/images/MIP/MIP_integrantes/MacarenaAndrade.jpg","macarena.andrade@sansano.usm.cl","Desarrolladora"],
+            "Bastián Quezada":["/images/MIP/MIP_integrantes/BastiánQuezada.jpg","bastian.quezada@sansano.usm.cl","Desarrolador"],
+            "Ignacio Valenzuela":["/images/MIP/MIP_integrantes/IgnacioValenzuela.jpg","ignacio.valenzuela@sansano.usm.cl","Product Owner"]
+        },
+        "category": ["Mobile", "Machine Learning"]
+    }
+]
