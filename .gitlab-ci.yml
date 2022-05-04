@@ -1,18 +1,28 @@
-image: node
+stages:
+  - build
+  - deploy
+
+build:
+  image: node:14.15.3-buster-slim
+  stage: build
+  script:
+    - yarn install
+    - yarn build
+  artifacts:
+    paths:
+      - build/
 
 pages:
+  image: alpine:latest
   stage: deploy
-  cache:
-    paths:
-      - node_modules/
+  variables:
+    GIT_STRATEGY: none # Do not clone git repo
+    NODE_ENV: production
+    PUBLIC_URL: https://joyanede.gitlab..labcomp.cl/fews
   script:
-    - npm install
-    - npm run build
-    - rm -rf public
-    - cp build/index.html build/404.html
+    # Rename the CRA `build` folder to `public`
     - mv build public
+    - cp public/index.html public/404.html
   artifacts:
     paths:
       - public
-  only:
-    - master
