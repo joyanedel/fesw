@@ -1,4 +1,5 @@
 import './styles/ContactCard.css';
+import React from 'react';
 
 function ContactCard(props) {
     return (

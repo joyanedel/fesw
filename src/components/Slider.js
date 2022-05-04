@@ -1,5 +1,6 @@
 import MultiRangeSlider from "multi-range-slider-react";
 import './styles/MultiRangeSlider.css';
+import React from 'react';
 
 
 function Slider(props) {

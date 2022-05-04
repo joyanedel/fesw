@@ -1,4 +1,5 @@
 import './styles/Card.css';
+import React from 'react';
 
 function TeamDetailCard(props) {
     var members = props.project[0]["members_info"];

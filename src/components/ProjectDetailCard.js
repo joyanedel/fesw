@@ -1,4 +1,5 @@
 import './styles/Card.css';
+import React from 'react';
 
 function ProjectDetailCard(props) {
     var project = props.project[0]
